@@ -1,0 +1,17 @@
+#slider {
+    padding-top: 45px;
+    /* background-color: #333; */
+    background-image: url("https://khoinguonsangtao.vn/wp-content/uploads/2022/10/anh-gucci-nen-den-cho-may-tinh.jpg");
+}
+
+.shop-menu ul li a {
+    background: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 0;
+    padding-right: 0;
+    margin-top: 10px;
+}
+
